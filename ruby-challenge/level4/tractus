@@ -1,0 +1,54 @@
+#!/home/redpurcit/anaconda3/bin/python
+'''usage: pytaskplan datafile
+
+   datafile is expected to be in json format.
+   example:
+   
+   {
+  "developers": [
+    { "id": 1, "name": "Mi",   "birthday": "1963-02-17" },
+    { "id": 2, "name": "Ti",   "birthday": "1973-04-16" },
+    { "id": 3, "name": "Tony", "birthday": "1983-05-17" }
+  ],
+  "projects": [
+    { "id": 1, "since": "2017-01-01", "until": "2017-12-31", "effort_days": 250 },
+    { "id": 2, "since": "2017-03-17", "until": "2017-05-31", "effort_days": 150 },
+    { "id": 3, "since": "2017-05-17", "until": "2017-05-31", "effort_days": 10 }
+  ],
+  "periods": [
+    { "id": 1, "since": "2017-01-01", "until": "2017-12-31" },
+    { "id": 2, "since": "2017-03-17", "until": "2017-05-31" },
+    { "id": 3, "since": "2017-05-17", "until": "2017-05-31" }
+  ]
+  "local_holidays": [
+    { "day": "2017-06-13", "name": "Santo Patrono di Padova" }
+  ]
+}
+'''
+
+from Tractus.main import main
+import sys
+
+def usage():
+    print(__doc__)
+
+print()
+try:
+    filename = sys.argv[1]
+except:
+    print('missing argument\n')
+    usage()
+    sys.exit()
+        
+
+if __name__ == '__main__':
+  main(filename)
+
+
+	
+
+
+
+ 
+  
+  

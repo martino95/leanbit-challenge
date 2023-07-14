@@ -1,0 +1,2194 @@
+{
+  "calendar": [
+    {
+      "date": "2017-01-01",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-01-02",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-03",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-04",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-05",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-06",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-01-07",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-08",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-09",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-10",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-11",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-12",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-13",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-14",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-15",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-16",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-17",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-18",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-19",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-20",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-21",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-22",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-23",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-24",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-25",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-26",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-27",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-28",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-29",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-01-30",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-01-31",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-01",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-02",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-03",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-04",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-05",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-06",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-07",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-08",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-09",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-10",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-11",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-12",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-13",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-14",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-15",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-16",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-17",
+      "Mi": "holiday",
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-18",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-19",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-20",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-21",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-22",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-23",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-24",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-25",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-26",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-02-27",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-02-28",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-01",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-02",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-03",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-04",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-05",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-06",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-07",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-08",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-09",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-10",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-11",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-12",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-13",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-14",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-15",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-16",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-03-17",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-18",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-19",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-20",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-21",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-22",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-23",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-24",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-25",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-26",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-03-27",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-28",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-29",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-30",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-03-31",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-01",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-02",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-03",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-04",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-05",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-06",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-07",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-08",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-09",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-10",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-11",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-12",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-13",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-14",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-15",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-16",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-04-17",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-04-18",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-19",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-20",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-21",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-22",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-23",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-24",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-25",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-04-26",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-27",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-28",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-04-29",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-04-30",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-01",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-05-02",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-03",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-04",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-05",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-06",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-07",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-08",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-09",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-10",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-11",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-12",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-13",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-14",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-15",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-16",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-17",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-05-18",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-19",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-20",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-21",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-22",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-23",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-24",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-25",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-26",
+      "Mi": 2,
+      "Ti": 2,
+      "Tony": 3
+    },
+    {
+      "date": "2017-05-27",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-28",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-05-29",
+      "Mi": 3,
+      "Ti": 3,
+      "Tony": 2
+    },
+    {
+      "date": "2017-05-30",
+      "Mi": 3,
+      "Ti": 3,
+      "Tony": 3
+    },
+    {
+      "date": "2017-05-31",
+      "Mi": 3,
+      "Ti": 3,
+      "Tony": 3
+    },
+    {
+      "date": "2017-06-01",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-02",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-06-03",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-04",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-05",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-06",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-07",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-08",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-09",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-10",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-11",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-12",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-13",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-06-14",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-15",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-16",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-17",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-18",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-19",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-20",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-21",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-22",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-23",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-24",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-25",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-06-26",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-27",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-28",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-29",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-06-30",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-01",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-02",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-03",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-04",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-05",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-06",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-07",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-08",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-09",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-10",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-11",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-12",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-13",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-14",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": 1
+    },
+    {
+      "date": "2017-07-15",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-16",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-17",
+      "Mi": 1,
+      "Ti": 1,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-18",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-19",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-20",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-21",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-22",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-23",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-24",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-25",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-26",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-27",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-28",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-07-29",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-30",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-07-31",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-01",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-02",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-03",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-04",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-05",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-06",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-07",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-08",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-09",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-10",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-11",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-12",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-13",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-14",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-15",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-08-16",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-17",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-18",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-19",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-20",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-21",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-22",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-23",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-24",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-25",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-26",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-27",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-08-28",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-29",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-30",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-08-31",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-01",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-02",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-03",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-04",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-05",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-06",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-07",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-08",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-09",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-10",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-11",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-12",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-13",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-14",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-15",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-16",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-17",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-18",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-19",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-20",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-21",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-22",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-23",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-24",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-09-25",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-26",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-27",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-28",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-29",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-09-30",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-01",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-02",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-03",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-04",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-05",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-06",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-07",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-08",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-09",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-10",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-11",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-12",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-13",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-14",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-15",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-16",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-17",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-18",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-19",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-20",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-21",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-22",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-23",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-24",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-25",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-26",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-27",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-28",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-29",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-10-30",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-10-31",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-01",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-11-02",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-03",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-04",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-05",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-06",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-07",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-08",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-09",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-10",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-11",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-12",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-13",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-14",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-15",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-16",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-17",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-18",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-19",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-20",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-21",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-22",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-23",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-24",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-25",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-26",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-11-27",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-28",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-29",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-11-30",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-01",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-02",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-03",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-04",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-05",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-06",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-07",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-08",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-12-09",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-10",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-11",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-12",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-13",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-14",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-15",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-16",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-17",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-18",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-19",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-20",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-21",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-22",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-23",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-24",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-25",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-12-26",
+      "Mi": "holiday",
+      "Ti": "holiday",
+      "Tony": "holiday"
+    },
+    {
+      "date": "2017-12-27",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-28",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-29",
+      "Mi": null,
+      "Ti": null,
+      "Tony": null
+    },
+    {
+      "date": "2017-12-30",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    },
+    {
+      "date": "2017-12-31",
+      "Mi": "weekend",
+      "Ti": "weekend",
+      "Tony": "weekend"
+    }
+  ]
+}
